@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestTaskShiftLab</string>
+
+    <string name="registration">Регистрация</string>
+    <string name="wrong_name">Имя должно быть длиннее двух</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="wrong_surname">Фамилия должна быть длиннее двух</string>
+    <string name="enter_surname">Введите фамилию</string>
+    <string name="wrong_birthday_date">Неправильная дата рождения</string>
+    <string name="enter_birthday_date">Введите дату рождения</string>
+    <string name="wrong_password">Неправильный пароль</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="wrong_confirmation_password">Пароли должны совпадать</string>
+    <string name="enter_confirmation_password">Повторите пароль</string>
+    <string name="password_rule">Пароль должен быть не менее 6 символов, без пробелов, содержать цифры и буквы верхнего регистра</string>
+
+
+    <string name="greeting">Приветствие</string>
+    <string name="hi">Привет</string>
+    <string name="hi_eq_mark">Привет!</string>
+    <string name="close">Закрыть</string>
+
+
+
+</resources>
